@@ -1,5 +1,5 @@
 body {
-    background: #e8d8c3;
+    background: url(towel.jpeg) repeat-x scroll;
 }
 
 img {
@@ -9,4 +9,21 @@ img {
 
 p {
     font-size: larger;
+}
+
+h1 {
+    color: rgb(12, 38, 87);
+}
+
+h2 {
+    color: rgb(12, 38, 87);
+}
+
+h3 {
+    color: rgb(12, 38, 87);
+}
+
+li {
+    color: rgb(12, 38, 87);
+    font-weight: 1000;
 }
